@@ -1,0 +1,25 @@
+{
+  "code": 200,
+  "error_message": null,
+  "data": {
+    "limit_flag": "true",
+    "limit_method": "default",
+    "data": {
+      "access": "public",
+      "list": {
+        "names": [
+          "Jaunty Jeff",
+          "Lil Marco",
+          "Freaky Rebeca",
+          "Oblivious Jenny",
+          "Sensational Cindy",
+          "Charming David",
+          "Brave Hendrik",
+          "Boring Jennifer",
+          "Proficient Leia",
+          "Unlucky Brian"
+        ]
+      }
+    }
+  }
+}
